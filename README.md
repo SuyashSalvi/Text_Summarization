@@ -1,16 +1,14 @@
 # End to end Text-Summarizer-Project
+This project implements an end-to-end Natural Language Processing (NLP) solution focusing on text summarization. It is designed to simplify the process of condensing lengthy textual content into concise summaries, utilizing robust NLP techniques and pipelines.
 
-## Workflows
+Overview:
+This project aims to provide a comprehensive demonstration of implementing text summarization using NLP techniques. From data preprocessing to model training and deployment, each step is meticulously covered to facilitate understanding and practical application.
 
-1. Update config.yaml
-2. Update params.yaml
-3. Update entity
-4. Update the configuration manager in src config
-5. update the conponents
-6. update the pipeline
-7. update the main.py
-8. update the app.py
+Key Features:
 
+Implementation of text summarization pipeline.
+Training and deployment of NLP model.
+Creation of user-friendly application for text summarization.
 
 # How to run?
 ### STEPS:
